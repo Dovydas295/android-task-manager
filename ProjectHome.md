@@ -1,0 +1,1 @@
+Aplicacion para gerenciar un Bloc de notas de Actividades.
